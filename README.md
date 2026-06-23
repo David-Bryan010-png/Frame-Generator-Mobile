@@ -106,3 +106,28 @@ Compare o SHA-256 do APK com o checksum disponibilizado nesta Release antes de i
 Licença
 
 Distribuído sob a Apache License 2.0.
+
+
+Download e instalação
+
+A versão mais recente do Frame Generator V10 está disponível na seção Releases deste repositório.
+
+Instalação
+
+1. Baixe o APK correspondente à versão mais recente.
+2. Autorize a instalação de aplicativos desta fonte no Android.
+3. Instale e abra o aplicativo.
+4. Ative o serviço de acessibilidade Frame Generator V10 Overlay.
+5. Toque em Iniciar Frame Generator V10.
+6. Autorize a captura da tela ou somente do aplicativo desejado.
+7. Abra o jogo e acompanhe as métricas pela notificação.
+
+Segurança e privacidade
+
+O aplicativo não solicita permissão de internet. O processamento dos quadros ocorre localmente no aparelho.
+
+O serviço de acessibilidade é usado somente para exibir o overlay sem bloquear os controles por toque. A versão publicada não solicita leitura do conteúdo das janelas.
+
+Estado do projeto
+
+O Frame Generator V10 está em Public Preview. Os resultados variam conforme o aparelho, o jogo e o compositor do Android. Artefatos visuais, atrasos, quedas de desempenho e incompatibilidades ainda podem ocorrer.
